@@ -30,9 +30,16 @@ Welcome to my GitHub profile! I’m a full-stack software developer with a passi
 
 ## 📫 Reach Me
 
-- 🌍 about-me](https://link.com)
-- 📧 raphealmary772@gmail.com
-- ☎️ +234 8129664484
+- 🌍 You can check out my portfolio [here](https://link.com)
+
+---
+
+## 🌐 Social Handles
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rapheal-mary)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Raphealmary)
 
 ---
 
