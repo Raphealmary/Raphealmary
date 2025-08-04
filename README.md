@@ -30,15 +30,15 @@ Welcome to my GitHub profile! I’m a full-stack software developer with a passi
 
 ## 📫 Reach Me
 
-- 🌍 You can check out my portfolio [here](https://link.com)
+- 🌍 You can check out my portfolio [here](https://raphealmary.netlify.app/)
 
 ---
 
 ## 🌐 Handles
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphealmary)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Raphealmary)
 [![Chat on WhatsApp](https://img.shields.io/badge/-WhatsApp_Me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2348129664484?text=Hello%20Rapheal%2C%20I%20found%20your%20profile%20on%20GitHub.)
 ---
