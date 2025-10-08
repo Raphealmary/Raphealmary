@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a full-stack software developer with a passi
 
 ## 💼 What I Build
 
-- 🔧 **Laravel**: Modular APIs, Livewire/Inertia.js, Sanctum, Breeze & Jetstream
+- 🔧 **Laravel**: Modular APIs, Svelte/Inertia.js, Sanctum, Breeze & Jetstream
 - ☕ **Java Architectures**: Layered enterprise solutions, clean OOP, JavaFX, Spring Boot
 - 🖥️ **C# Development**: ASP.NET Core admin dashboards, WinForms/WPF applications, and offline/online enterprise systems
 - 🌐 **Modern UI/UX**: Responsive layouts using Tailwind CSS
