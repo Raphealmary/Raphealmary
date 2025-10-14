@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I’m a full-stack software developer with a passi
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Svelte](https://img.shields.io/badge/-Svelte-orange?style=flat-square&logo=svelte)
 
 ---
 
