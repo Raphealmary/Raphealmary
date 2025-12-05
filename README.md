@@ -4,28 +4,11 @@ Welcome to my GitHub profile! I’m a full-stack software developer with a passi
 
 ---
 
-## 💼 What I Build
-
-- 🔧 **Laravel**: Modular APIs, Svelte/Inertia.js, Sanctum, Jwt
-- ☕ **Java Architectures**: Layered enterprise solutions, clean OOP, JavaFX, Mobile 
-- 🖥️ **C# Development**: ASP.NET Core admin dashboards, WinForms/WPF applications, and offline/online enterprise systems
-- 🌐 **Modern UI/UX**: Responsive layouts using Tailwind CSS
-- 🧠 **Smart Systems**: CBT platforms, fintech tools, biometric & streaming integrations
-
----
-
 ## 🧰 Tech Toolbox
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=jquery)
 ![Svelte](https://img.shields.io/badge/-Svelte-orange?style=flat-square&logo=svelte&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-- 🏫 **School Portal** – Laravel-based portal with offline/online support for Nigerian schools
-- 🖥️ **CBT Software (Offline/Online)** – Windows-based exam app in PHP and C# with result syncing
 
 ---
 
