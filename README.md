@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a full-stack software developer with a passi
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=jquery)
 ![Svelte](https://img.shields.io/badge/-Svelte-orange?style=flat-square&logo=svelte&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=flat-square&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
 
 ---
 
