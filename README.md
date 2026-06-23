@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Onyeke Raphealmary
 
-Welcome to my GitHub profile! I’m a full-stack software developer with a passion for **scalable backend architecture**, **modern frontend design**, and **cross-platform enterprise solutions**.
+Welcome to my GitHub profile! I’m a full-stack software developer with a passion for **scalable backend architecture**, and **cross-platform enterprise solutions**.
 
 ---
 
